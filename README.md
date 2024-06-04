@@ -1,5 +1,6 @@
-  ![ 1717536101185 ] ( https://github.com/saolei8/tg_hongbao/assets/171742525/2619893f-3975-4cf9-8736-abd12993129a )
-   ![ 298395417-276a29f9-979e-448e-9fb7-6dc89a0f2907 ] ( https://github.com/saolei8/tg_hongbao/assets/171742525/d374af04-2a90-4b21-ac15-a4a5804e5362 )
+![1717536101185](https://github.com/saolei8/tg_hongbao/assets/171742525/ab3d4caf-fb19-4260-986f-2464d590e4c8)
+![298395417-276a29f9-979e-448e-9fb7-6dc89a0f2907](https://github.com/saolei8/tg_hongbao/assets/171742525/ff0186b0-66c2-42f1-8829-134aab83ecd7)
+
 
 功能说明：
 报表显示上级抽成，下级抽成，中雷赔付，抢包收入，邀请返点以及下级中雷返点
